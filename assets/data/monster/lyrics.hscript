@@ -1,0 +1,188 @@
+
+function stepHit(step)
+{
+    //if (curStep == 84) {
+    if (curStep >= 84 && curStep <= 112) {
+        //lyrics.text = "Guess it's time you better plug in all your night-lights";
+        setLyrics("Guess it's time you better plug in all your night-lights", 112);
+    }
+    /*if (curStep == 112) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 148) {
+    if (curStep >= 148 && curStep <= 176) {
+        //lyrics.text = "What's out there past your darkened door";
+        setLyrics("What's out there past your darkened door", 176);
+    }
+    /*if (curStep == 176) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 208) {
+    if (curStep >= 208 && curStep <= 238) {
+        //lyrics.text = "Just the eyes floating up out of the shore";
+        setLyrics("Just the eyes floating up out of the shore", 238);
+    }
+    /*if (curStep == 238) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 290) {
+    if (curStep >= 290 && curStep <= 315) {
+        //lyrics.text = "Hey man, i'm gonna eat your girlfriend";
+        setLyrics("Hey man, i'm gonna eat your girlfriend", 315);
+    }
+    /*if (curStep == 315) {
+        lyrics.text = "";
+    }*/
+    if (curStep == 353) {
+        //lyrics.text = "Or maybe turn her into broth";
+        setLyrics("Or maybe turn her into broth", null);
+    }
+    //if (curStep == 375) {
+    if (curStep >= 375 && curStep <= 383) {
+        //lyrics.text = "La-la-la la la";
+        setLyrics("La-la-la la la", 383);
+    }
+    /*if (curStep == 383) {
+        lyrics.text = "";
+    }*/
+    if (curStep == 416) {
+        //lyrics.text = "Kill a kid cut 'em up and stuff 'em up inside of my secret meat";
+        setLyrics("Kill a kid cut 'em up and stuff 'em up inside of my secret meat", null);
+    }
+    //if (curStep == 444) {
+    if (curStep >= 444 && curStep <= 447) {
+        //lyrics.text = "box";
+        setLyrics("box", 447);
+    }
+    /*if (curStep == 447) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 480) {
+    if (curStep >= 480 && curStep <= 511) {
+        //lyrics.text = "Find my hands across your body slowly peel your skin off";
+        setLyrics("Find my hands across your body slowly peel your skin off", 511);
+    }
+    /*if (curStep == 511) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 562) {
+    if (curStep >= 562 && curStep <= 576) {
+        //lyrics.text = "You'll meet your friends";
+        setLyrics("You'll meet your friends", 576);
+    }
+    /*if (curStep == 576) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 589) {
+    if (curStep >= 589 && curStep <= 604) {
+        //lyrics.text = "Inside the ambulance";
+        setLyrics("Inside the ambulance", 604);
+    }
+    /*if (curStep == 604) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 616) {
+    if (curStep >= 616 && curStep <= 624) {
+        //lyrics.text = "Call into the night";
+        setLyrics("Call into the night", 624);
+    }
+    /*if (curStep == 624) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 638) {
+    if (curStep >= 638 && curStep <= 644) {
+        //lyrics.text = "To the werewolf";
+        setLyrics("To the werewolf", 644);
+    }
+    /*if (curStep == 644) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 658) {
+    if (curStep >= 658 && curStep <= 671) {
+        //lyrics.text = "Give all your blood to him";
+        setLyrics("Give all your blood to him", 671);
+    }
+    /*if (curStep == 671) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 684) {
+    if (curStep >= 684 && curStep <= 696) {
+        //lyrics.text = "Stand under the warm streetlight";
+        setLyrics("Stand under the warm streetlight", 696);
+    }
+    /*if (curStep == 696) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 712) {
+    if (curStep >= 712 && curStep <= 732) {
+        //lyrics.text = "Lеt yourself be hypnotized";
+        setLyrics("Lеt yourself be hypnotized", 732);
+    }
+    /*if (curStep == 732) {
+        lyrics.text = "";
+    }*/
+    if (curStep == 785) {
+        //lyrics.text = "You're just a little snack";
+        setLyrics("You're just a little snack", null);
+    }
+    if (curStep == 803) {
+        //lyrics.text = "...";
+        setLyrics("...", null);
+    }
+    //if (curStep == 814) {
+    if (curStep >= 814 && curStep <= 841) {
+        //lyrics.text = "And so is your girlfriend";
+        setLyrics("And so is your girlfriend", 841);
+    }
+    /*if (curStep == 841) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 930) {
+    if (curStep >= 930 && curStep <= 955) {
+        //lyrics.text = "Hey man, I'm gonna tear your eyes out";
+        setLyrics("Hey man, I'm gonna tear your eyes out", 955);
+    }
+    /*if (curStep == 955) {
+        lyrics.text = "";
+    }*/
+    if (curStep == 994) {
+        //lyrics.text = "And then I'll boil your girlfriend";
+        setLyrics("And then I'll boil your girlfriend", null);
+    }
+    //if (curStep == 1016) {
+    if (curStep >= 1016 && curStep <= 1023) {
+        //lyrics.text = "La-la-la la la";
+        setLyrics("La-la-la la la", 1023);
+    }
+    /*if (curStep == 1023) {
+        lyrics.text = "";
+    }*/
+    if (curStep == 1056) {
+        //lyrics.text = "Kill a kid cut 'em up and stuff 'em up inside of my burning";
+        setLyrics("Kill a kid cut 'em up and stuff 'em up inside of my burning", null);
+    }
+    //if (curStep == 1082) {
+    if (curStep >= 1082 && curStep <= 1087) {
+        //lyrics.text = "dungeon";
+        setLyrics("dungeon", 1087);
+    }
+    /*if (curStep == 1087) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 1120) {
+    if (curStep >= 1120 && curStep <= 1151) {
+        //lyrics.text = "I would give you guys a little break but I'm not Satan";
+        setLyrics("I would give you guys a little break but I'm not Satan", 1151);
+    }
+    /*if (curStep == 1151) {
+        lyrics.text = "";
+    }*/
+    //if (curStep == 1186) {
+    if (curStep >= 1186 && curStep <= 1203) {
+        //lyrics.text = "Ooo, yeah";
+        setLyrics("Ooo, yeah", 1203);
+    }
+    /*if (curStep == 1203) {
+        lyrics.text = "";
+    }*/
+}

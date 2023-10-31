@@ -1,0 +1,180 @@
+
+function stepHit(step)
+{
+    if (curStep >= 100 && curStep <= 127) {
+        setLyrics("Your skin is freezing", 127);
+    }
+    if (curStep >= 132 && curStep <= 169) {
+        setLyrics("Here, let me help you take it off", 169);
+    }
+    if (curStep == 224) {
+        setLyrics("Feasting with your friends", null);
+    }
+    if (curStep == 246) {
+        setLyrics("What a perfect way to end", null);
+    }
+    if (curStep >= 260 && curStep <= 277) {
+        setLyrics("All these lonely holidays", 277);
+    }
+    if (curStep >= 278 && curStep <= 285) {
+        setLyrics("la la la la", 285);
+    }
+    if (curStep >= 354 && curStep <= 383) {
+        setLyrics("Gonna take a piece of your rabies", 383);
+    }
+    if (curStep >= 386 && curStep <= 400) {
+        setLyrics("And vivisect your mind", 400);
+    }
+    if (curStep >= 480 && curStep <= 500) {
+        setLyrics("Snowmen smiling with your teeth", 500);
+    }
+    if (curStep >= 512 && curStep <= 536) {
+        setLyrics("Fallen angels created with your meat", 536);
+    }
+    if (curStep >= 564 && curStep <= 589) {
+        setLyrics("That pearly smile", 589);
+    }
+    if (curStep == 610) {
+        setLyrics("Cut in a thousand slices", null);
+    }
+    if (curStep >= 624 && curStep <= 640) {
+        setLyrics("Bake you 'til golden brown", 640);
+    }
+    if (curStep >= 672 && curStep <= 688) {
+        setLyrics("Stuff you with spices", 688);
+    }
+    if (curStep >= 704 && curStep <= 726) {
+        setLyrics("Serve to friends around", 726);
+    }
+    if (curStep == 738) {
+        setLyrics("Seperate you from your eyes", null);
+    }
+    if (curStep == 754) {
+        setLyrics("Turn your girlfriend inside out", null);
+    }
+    if (curStep == 766) {
+        setLyrics("And", null);
+        lyricsShakeEffect(0.005, 0.125);
+    }
+    if (curStep == 768) {
+        setLyrics("And burn", null);
+        lyricsShakeEffect(0.005, 0.125);
+    }
+    if (curStep == 772) {
+        setLyrics("And burn her", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 776) {
+        setLyrics("And burn her fin", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 780) {
+        setLyrics("And burn her finger", null);
+        lyricsShakeEffect(0.005, 0.125);
+    }
+    if (curStep >= 782 && curStep <= 788) {
+        setLyrics("And burn her fingernails", 788);
+    }
+    if (curStep == 782) {
+        lyricsShakeEffect(0.005, 0.25);
+    }
+    if (curStep >= 790 && curStep <= 797) {
+        setLyrics("la la la la", 797);
+    }
+    if (curStep >= 864 && curStep <= 879) {
+        setLyrics("Soak your hands in freezing water", 879);
+    }
+    if (curStep >= 896 && curStep <= 911) {
+        setLyrics("Watching as the skin gets softer", 911);
+    }
+    if (curStep >= 928 && curStep <= 941) {
+        setLyrics("See your bones appear in", 941);
+    }
+    if (curStep == 944) {
+        setLyrics("Dark", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 948) {
+        setLyrics("Dark red", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep >= 952 && curStep <= 956) {
+        setLyrics("Dark red snow", 956);
+    }
+    if (curStep == 952) {
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 960) {
+        setLyrics("Drop", null);
+        lyricsShakeEffect(0.005, 0.3125);
+    }
+    if (curStep == 966) {
+        setLyrics("Drop further", null);
+        lyricsShakeEffect(0.005, 0.5625);
+    }
+    if (curStep == 976) {
+        setLyrics("Drop further be", null);
+        lyricsShakeEffect(0.005, 0.125);
+    }
+    if (curStep >= 984 && curStep <= 991) {
+        setLyrics("Drop further below", 991);
+    }
+    if (curStep == 984) {
+        lyricsShakeEffect(0.005, 0.375);
+    }
+    if (curStep >= 994 && curStep <= 1025) {
+        setLyrics("Gonna take a piece of your rabies", 1025);
+    }
+    if (curStep >= 1030 && curStep <= 1044) {
+        setLyrics("And vivisect your mind", 1044);
+    }
+    if (curStep >= 1062 && curStep <= 1086) {
+        setLyrics("Gonna take a peek inside your head", 1086);
+    }
+    if (curStep >= 1090 && curStep <= 1108) {
+        setLyrics("And find a worm inside", 1108);
+    }
+    if (curStep == 1122) {
+        setLyrics("Cut in a thousand slices", null);
+    }
+    if (curStep >= 1136 && curStep <= 1152) {
+        setLyrics("Bake you 'til golden brown", 1152);
+    }
+    if (curStep >= 1184 && curStep <= 1200) {
+        setLyrics("Fill you with spices", 1200);
+    }
+    if (curStep >= 1216 && curStep <= 1240) {
+        setLyrics("Serve to friends around", 1240);
+    }
+    if (curStep >= 1250 && curStep <= 1263) {
+        setLyrics("Turn the heat on high and", 991);
+    }
+    if (curStep == 1264) {
+        setLyrics("We'll", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 1268) {
+        setLyrics("We'll re", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 1272) {
+        setLyrics("We'll reduce", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep == 1276) {
+        setLyrics("We'll reduce your", null);
+        lyricsShakeEffect(0.005, 0.1875);
+    }
+    if (curStep >= 1280 && curStep <= 1289) {
+        setLyrics("We'll reduce your blood", 1289);
+    }
+    if (curStep == 1280) {
+        lyricsShakeEffect(0.005, 0.5);
+    }
+    if (curStep >= 1312 && curStep <= 1332) {
+        setLyrics("Boil lil' boyfriend", 1332);
+    }
+    if (curStep >= 1344 && curStep <= 1362) {
+        setLyrics("With brandy and plums", 1362);
+    }
+}

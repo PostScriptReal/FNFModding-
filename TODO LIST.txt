@@ -1,0 +1,9 @@
+TOP PRIORITY:
+- A̶n̶t̶i̶-̶E̶p̶i̶l̶e̶p̶s̶y̶
+- M̶i̶d̶d̶l̶e̶s̶c̶r̶o̶l̶l
+
+MID-PRIORITY:
+- A̶d̶d̶ ̶N̶a̶u̶g̶h̶t̶i̶n̶e̶s̶s̶ ̶O̶p̶t̶i̶o̶n̶ ̶t̶o̶ ̶c̶e̶n̶s̶o̶r̶ ̶s̶t̶u̶f̶f̶
+- Graphics options (Antialiasing, Low Quality tex, etc.)
+
+LOW PRIORITY:

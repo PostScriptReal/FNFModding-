@@ -1,0 +1,105 @@
+{
+  "songs": [
+    ["tutorial selected","Tutorial"],
+    ["WEEK1 select", "Bopeebo", "Fresh","Dadbattle"],
+    ["week2 select", "Spookeez", "South", "Monster"],
+    ["Week 3 press", "Pico", "Philly", "Blammed"],
+    ["Week 4 press", "Satin-Panties", "High", "Milf"],
+    ["week 5", "Cocoa", "Eggnog", "Winter-Horrorland"],
+    ["Week 6", "Senpai", "Roses", "Thorns"],
+    ["Week 7", "Ugh", "Guns", "Stress"]
+  ],
+  "weekNames": [
+    "Learnin' How To Rap",
+    "Daddy Dearest",
+    "Spooky Month",
+    "PICO",
+    "MOMMY MUST MURDER",
+    "RED SNOW",
+    "hating simulator ft. moawling",
+    "TANKMAN"
+  ],
+  "characters": [
+    ["dad", "bf", "gf"],
+    ["dad", "bf", "gf"],
+    ["spooky", "bf", "gf"],
+    ["pico", "bf", "gf"],
+    ["mom", "bf", "gf"],
+    ["parents-christmas", "bf", "gf"],
+    ["senpai", "bf-pixel", "gf"],
+    ["tankman", "bf", "gf"]
+  ],
+  "weeks": [
+    {
+      "songs": ["Tutorial"],
+      "name": "Learnin' How To Rap",
+      "animation": "tutorial selected",
+      // bf and gf default to regular values,
+      // but for examples sake i include them here
+      "dad": "dad",
+      "bf": "bf",
+      "gf": "gf",
+      // flshColor changes the colour used when selecting a week.
+      // The colour used here is the default value, You can get rid of this and nothing will change.
+      // If you're going to use this feature, copy the field and paste it because the game uses a different hexadecimal format.
+      // Changing the colour is simple, google colour picker, get the hex values after selecting a colour, and replace it in front of the "FF" value.
+      "flshColor": ["0xFF33ffff"]
+      // Rainbow Time!
+      //"flshColor": ["0xFFff3333","0xFFff7433","0xFFffda33","0xFF4bff33","0xFF3344ff","0xFF8f33ff","0xFFda33ff"]
+    },
+    {
+      "songs": ["Bopeebo", "Fresh", "Dadbattle"],
+      "name": "Daddy Dearest",
+      "animation": "WEEK1 select",
+      "dad": "dad",
+      "flshColor": ["0xFFcd00ff"]
+    },
+    {
+      "songs": ["Spookeez", "South", "Monster"],
+      "animation": "week2 select",
+      "name": "Spooky Month",
+      "dad": "spooky",
+      "flshColor": ["0xFFFD9013"]
+    },
+    {
+      "songs": ["Pico", "Philly", "Blammed"],
+      "animation": "Week 3 press",
+      "name": "PICO",
+      "dad": "pico",
+      "flshColor": ["0xFF37ff00"]
+    },
+    {
+      "songs": ["Satin-Panties", "High", "Milf"],
+      "animation": "Week 4 press",
+      "name": "MOMMY MUST MURDER",
+      "dad": "mom",
+      "flshColor": ["0xFFff7db8"]
+    },
+    {
+      "songs": ["Cocoa", "Eggnog", "Winter-Horrorland"],
+      "animation": "week 5",
+      "name": "RED SNOW",
+      "dad": "parents-christmas",
+      "flshColor": ["0xFFcd00ff","0xFFff7db8"]
+    },
+    {
+      "songs": ["Senpai", "Roses", "Thorns"],
+      "animation": "Week 6",
+      "name": "hating simulator ft. moawling",
+      "dad": "senpai",
+      "bf": "bf-pixel",
+      "flshColor": ["0xFFff9c45"]
+    },
+    {
+      "songs": ["Ugh", "Guns", "Stress"],
+      "animation": "week7",
+      "name": "TANKMAN",
+      "dad": "tankman"
+    }
+
+  ],
+  // version 2 uses weeks one
+  // version 1 uses old system...
+  // i think version 2 is more intutive
+  "version": 2
+}

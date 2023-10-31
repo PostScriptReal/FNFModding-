@@ -1,0 +1,52 @@
+function start(song) 
+{
+    if (OptionsHandler.options.siivagunnermode) {
+        funni = true;
+    } else {
+        funni = false;
+    }
+}
+
+function beatHit(beat)
+{
+
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+    if (curStep == step) {
+        if (funni) {
+            currentPlayState.health -= (2);
+        }
+    }
+}
+
+function playerTwoTurn()
+{
+    
+}
+
+function playerTwoMiss()
+{
+    
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}

@@ -1,0 +1,20 @@
+THIS IS A NEW FEATURE ADDED IN MODDING++, HENCE WHY IT DOESN'T APPEAR IN THE TUTORIAL TEXT FILE.
+THIS TEXT FILE EXPLAINS HOW TO MAKE YOUR OWN CUSTOM MENUS (Use template-dark as a basis! (It's made for that purpose!!)).
+
+To clarify, menu-packs are NOT related to ui-packs. Ui-packs change the hud during a song (For example, the arrows are part of the hud).
+Menu packs changes the look of the in-game menus before you start a song, for example, the 'Press enter to begin' screen.
+Anyhoo, here's how you can make your own menu-pack and use it in-game!
+
+1. Copy template-dark and paste it in the custom_menus folder.
+2. Name it to whatever you want (DON'T INCLUDE SPACES!!)
+3. Make your menu assets and replace the files (PLS DON'T DELETE ANY FILES).
+4. Go to assets/data and find menupacks.txt
+5. Copy the name of your menu-pack and paste it to a new line in the file and save.
+6. Start up the game, and navigate to the options menu.
+7. Go down to the Custom Menu option and select your custom menu pack (Don't worry about restarting to fully apply all changes).
+8. You're done!
+
+- Popularsonic
+
+BTW, if you want to remove the Custom Menus option from the options menu, open optionsMask.json and set "menus" to false.
+(IF YOU WANT TO REMOVE DEFAULT WITHOUT BREAKING THE GAME, YOU HAVE TO MODIFY THE SOURCE CODE!)

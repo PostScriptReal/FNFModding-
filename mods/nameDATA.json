@@ -1,0 +1,10 @@
+{
+	"mod": {
+		"name": "Template",
+		"uses": "none",
+		"icon": "name",
+		"desc": "This is a template. Only use this for making your own LoaderData!",
+		"version": "0.0.0-template",
+		"replaceSongList": null
+    }
+}

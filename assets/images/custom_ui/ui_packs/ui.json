@@ -1,0 +1,27 @@
+{
+    "normal": {
+        "isPixel": false,
+        // Leave builtInJudgement set to true for the sake of my terrible bug-fixing
+        "builtInJudgement": true,
+        //uses is the folder it actually goes into :blush:
+        // we use this to make judgements and shit : )
+        // this also applies to judgements loser
+        "uses": "normal",
+        "jeffGameOver": false
+    },
+    "pixel": {
+        "isPixel": true,
+        "builtInJudgement": true,
+        "uses": "pixel",
+        "jeffGameOver": false
+    },
+    "week7": {
+        "isPixel": false,
+        "builtInJudgement": true,
+        "uses": "normal",
+        // jeffGameOver basically enables week 7's game over feature
+        "jeffGameOver": true,
+        /* The naughty list tells the game what dialogue to remove when the naughtiness option is enabled
+        "naughtyList": [0,2,7,11,12,16,20]*/
+    }
+}

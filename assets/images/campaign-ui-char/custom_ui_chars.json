@@ -1,0 +1,58 @@
+{
+  "bf": {
+    "like": "bf",
+    "defaultGraphics": true
+  },
+  "bf-pixel": {
+    "like": "bf-pixel",
+    "defaultGraphics": true
+  },
+  "gf": {
+    "like": "gf",
+    "defaultGraphics": true
+  },
+  "dad": {
+    "like": "dad",
+    "defaultGraphics": true
+  },
+  "mom": {
+    "like": "mom",
+    "defaultGraphics": true
+  },
+  "spooky": {
+    "like": "spooky",
+    "defaultGraphics": true
+  },
+  "pico": {
+    "like": "pico",
+    "defaultGraphics": true
+  },
+  "parents-christmas": {
+    "like": "parents-christmas",
+    "defaultGraphics": true
+  },
+  "senpai":{
+    "like": "senpai",
+    "defaultGraphics": true
+  },
+  "tankman": {
+    "like":"tankman",
+    "defaultGraphics": true
+  },
+  "bf-neo": {
+    "like": "bf-neo",
+    "defaultGraphics": true
+  },
+  "dad-neo": {
+    "like": "dad-neo",
+    "defaultGraphics": true
+  },
+  "gf-neo": {
+    "like": "gf-neo",
+    "defaultGraphics": true
+  },
+  "otama": {
+    "like": "otama",
+    "defaultGraphics": true
+  }
+}

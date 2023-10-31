@@ -1,0 +1,197 @@
+{
+  "template": {
+    "like": "bf",
+    "icons": [0,1,24],
+    "colors": ["#149DFF"],
+    "customHealthColour": true
+  },
+  "bf": {
+    "like": "bf",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"],
+    "customHealthColour": true
+  },
+  "bf-car": {
+    "like": "bf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"],
+    "customHealthColour": true
+  },
+  "bf-christmas": {
+    "like": "bf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"],
+    "customHealthColour": true
+  },
+  "bf-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#149DFF"],
+    "customHealthColour": true
+  },
+  "bulb-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#F5E642"],
+    "customHealthColour": true
+  },
+  "dad": {
+    "like": "dad",
+    "icons": [0,1,2,3],
+    "colors": ["#A200CA"],
+    "customHealthColour": true
+  },
+  "gf-car": {
+    "like": "gf-car",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "gf-pixel": {
+    "like": "gf-pixel",
+    "icons": [0,1,2],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "gf-christmas": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "gf": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "templateMonster": {
+    "like": "monster",
+    "icons": [0,1,2,3],
+    "colors": ["#F2D046"],
+    "customHealthColour": true
+  },
+  "monster": {
+    "like": "newmonster",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"],
+    "customHealthColour": true
+  },
+  "monster-christmas": {
+    "like": "monster-christmas",
+    "icons": [0,1,2],
+    "colors": ["#F2D046"],
+    "customHealthColour": true
+  },
+  "parents-christmas": {
+    "like": "parents",
+    "icons": [0,1,2,3],
+    "colors": ["#A200CA", "#FF95C5"],
+    "customHealthColour": true
+  },
+  "pico": {
+    "like": "pico",
+    "icons": [0,1,2,3],
+    "colors": ["#99FF7D"],
+    "customHealthColour": true
+  },
+  "senpai-angry": {
+    "like": "senpai-angry",
+    "icons": [0,1,2,3],
+    "colors": ["#BC7333"],
+    "customHealthColour": true
+  },
+  "senpai": {
+    "like": "senpai",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"],
+    "customHealthColour": true
+  },
+  "spirit": {
+    "like": "spirit",
+    "icons": [0,1,2],
+    "colors": ["#E77474"],
+    "customHealthColour": true
+  },
+  "spooky": {
+    "like": "spooky",
+    "icons": [0,1,2,3],
+    "colors": ["#FD9013","#C3C3C3"],
+    "customHealthColour": true
+  },
+  "mom": {
+    "like": "mom",
+    "icons": [0,1,2,3],
+    "colors": ["#FF95C5"],
+    "customHealthColour": true
+  },
+  "mom-car": {
+    "like": "mom-car",
+    "icons": [0,1,2,3],
+    "colors": ["#FF95C5"],
+    "customHealthColour": true
+  },
+  "templateSenpai-hd": {
+    "like": "senpai-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"],
+    "customHealthColour": true
+  },
+  "templateSenpaiAngry-hd": {
+    "like": "senpai-angry-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"],
+    "customHealthColour": true
+  },
+  "templateSpirit-hd": {
+    "like": "spirit-hd",
+    "icons": [0,1,2],
+    "colors": ["#BC7333"],
+    "customHealthColour": true
+  },
+  "tankman": {
+    "like": "tankman",
+    "icons": [0,1,2],
+    "colors": ["#F9B03A"],
+    "customHealthColour": true,
+    "healthColour": "#E1E1E1"
+  },
+  "gf-tankmen": {
+    "like": "gf-tankmen",
+    "icons": [0,0,1],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "pico-speaker": {
+    "like": "pico-speaker",
+    "icons": [0,1,2],
+    "colors": ["#99FF7D"],
+    "customHealthColour": true
+  },
+  "bf-holding-gf": {
+    "like": "bf-holding-gf",
+    "icons": [0,1,2],
+    "colors": ["#149DFF","#EE19D9"],
+    "customHealthColour": true
+  },
+  "gf-tankmen": {
+    "like": "gf",
+    "icons": [0,1,2,3],
+    "colors": ["#EE19D9"],
+    "customHealthColour": true
+  },
+  "popsonic": {
+    "like": "bf",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"],
+    "customHealthColour": true,
+    "healthColour": "#2079E1"
+  },
+  "sonic-pixel": {
+    "like": "bf-pixel",
+    "icons": [0,1,2,3],
+    "colors": ["#149DFF"],
+    "customHealthColour": true,
+    "healthColour": "#717CFF"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "animation": {
+    "bfConfirm": "BFPIXELHEY!!",
+    "idle": "BFPIXEL!!"
+  },
+  "scale": 0.7,
+  "offset": [-80, -40]
+}

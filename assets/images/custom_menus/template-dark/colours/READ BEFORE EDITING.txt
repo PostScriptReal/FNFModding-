@@ -1,0 +1,6 @@
+You're probably confused on what this folder is, this folder contains hex colour codes that's used by the game.
+For some menus, it loads MenuDesat and sets the colour to a specified rgba value.
+If you haven't got it yet, all these text files contains data for custom colours for these menus.
+When selecting this menu-pack the game will instead load these text files when setting the BG colour.
+If you want to edit these colours, google 'color picker' (or colour picker depending on where you live of course), and pick a colour and paste the hex value of said colour.
+(For the extra 2 digits, leave them be! DONT CHANGE THEM!!)
